@@ -1,0 +1,34 @@
+body{
+    background: linear-gradient(250deg, #138808 33%, #ffffff 33%, #ffffff 66%, #FF9933 66% );
+
+}.MuiTextField-root p {
+    color:#000;
+    font-size: 18px;
+}.MuiOutlinedInput-root{
+  
+  
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 100%;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
